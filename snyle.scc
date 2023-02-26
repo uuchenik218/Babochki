@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background: red;
+    padding: 25px;
+}
+header a{
+    text-decoration: none;
+    background: white;
+    border-radius: 10px;
+    margin: 25px;
+    padding: 10px;
+    color:black;
+    border:solid 3px black;
+}
+.da{
+    weight:183px;
+    height: 221px;
+}
+.net{
+    height: 299px;
+    weight:150px
+}
+footer{
+ background-color:#FFC700;   
+}
+footer p{
+    color: black;
+    text-decoration: none;
+}
+.pon{
+    weight:95px;
+    height: 88px;
+}
+h1{
+    text-align: center;
+}
